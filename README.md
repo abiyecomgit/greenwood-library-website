@@ -43,3 +43,36 @@ Initialize it with a README.md file and clone it to your local machine.
 3. Stage, commit and push the changes directly to the main branch. (This is a simulation of the team's existing code base for the website)
 
 The following commands were used to stage, commit and push:
+
+`git add . `
+
+![created-files](images/created-html-files.png)
+
+![added-files](images/Added-files.png)
+
+
+`git commit -m "main branch commited"`
+
+![commited-files](images/commited-files.png)
+
+
+`git push -u origin main`
+
+![alt text](images/Pushed-files.png)
+
+
+**Morgan's Work: Adding Book Reviews**
+
+1. From the main branch I Created a Branch for Morgan: 
+Add-book-reviews
+
+2. I Switch to a new branch named add-book-reviews. 
+
+Below command was used:
+
+git branch
+
+git checkout -b Add-book-reviews
+
+![morgan-branch](images/morgan-branch.png)
+
