@@ -129,3 +129,19 @@ Below commands was used:
 5. Stage, Commit and Push Changes with a message like  "Added reviews section"
 
 6. Push the update-events Branch to Github.
+
+Below commands was used:
+
+`git add .`
+
+`git commit -m "update-events branch"`
+
+`git push -u origin update-events`
+
+![jamie-branch-pushed](images/jamie-branch-pushed.png)
+
+
+7. I Raised a PR for Jamie's work
+
+
+8. Merged Jamie's work
