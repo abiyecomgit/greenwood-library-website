@@ -76,3 +76,56 @@ git checkout -b Add-book-reviews
 
 ![morgan-branch](images/morgan-branch.png)
 
+
+3. I Added a new file book_reviews.html to represent the Book Reviews Section:
+
+![added-bookreview-file](images/added-bookreview-file.png)
+
+
+4. I Added a random text content into the file. (Have a thorough review)
+
+5. Stage, Commit, and Push Changes with a message like "Add book reviews section."
+
+6. Push the add-book-reviews branch to GitHub.
+ 
+Below commands was used: 
+
+`git add .`
+
+`git commit -m "Add-book-reviews branch"`
+
+`git push -u origin Add-book-reviews`
+
+7. I Raised a PR for Morgan's work
+
+![morgan-PR1](images/morgan-PR1.png)
+
+
+8. Merged Morgan's work to the main branch
+
+![morgan-merged-PR](images/morgan-merged-PR.png)
+
+
+Jamie's Work: Updating Events Page
+Repeat the same flow for Jamie's work on Events Page. Ensure Jamie's work is in update-events branch.
+
+1. From the main branch I created a Branch for Jamie: update-events and pushed 
+
+2. I switched to a new branch named update-events
+
+Below commands was used:
+
+
+` git checkout -b uodate-events`
+
+![jamie-branch](images/jamie-branch.png)
+
+3. I added a new file book_reviews to represent the Book Reviews section:
+
+[book_review](book_review.html)
+
+4. I added a random text content into the file.
+
+5. Stage, Commit and Push Changes with a message like  "Added reviews section"
+
+6. Push the update-events Branch to Github.
